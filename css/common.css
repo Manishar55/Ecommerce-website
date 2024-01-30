@@ -1,5 +1,8 @@
 :root{
     --blue-gray:#f1f4f5;
+    --pale-blue:#2c3e50;
+    --mid-gray:#999;
+    --jean-blue:#496c8e;
 }
 html{
     box-sizing: border-box;
