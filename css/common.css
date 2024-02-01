@@ -18,6 +18,8 @@ html{
 #header{
     background-color: var(--blue-gray);
     padding: 1.2rem;
+    position: sticky;
+    top:0;
 }
 #header .header-wrapper .logo{
     font-size: 1.35rem;
